@@ -1,0 +1,8 @@
+language: python
+python:
+  - 2.7
+install:
+  - pip install -q pytest pytest-pep8 --use-wheel
+script: py.test --pep8
+notifications:
+  email: false

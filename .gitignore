@@ -1,0 +1,5 @@
+.cache/
+.python-version
+check_puppetdb_node.egg-info/
+*.pyc
+dist/
