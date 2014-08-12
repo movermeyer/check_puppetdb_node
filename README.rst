@@ -2,6 +2,15 @@
 check_puppetdb_node
 ##############
 
+.. image:: https://travis-ci.org/daenney/check_puppetdb_node.svg?branch=master
+    :target: https://travis-ci.org/daenney/check_puppetdb_node
+
+.. image:: https://pypip.in/d/check_puppetdb_node/badge.png
+   :target: https://pypi.python.org/pypi/check_puppetdb_node
+
+.. image:: https://pypip.in/v/check_puppetdb_node/badge.png
+   :target: https://pypi.python.org/pypi/check_puppetdb_node
+
 check_puppetdb_node is a Nagios / Icinga plugin that allows you to check the
 agent/run status by querying PuppetDB. This is more robust and reliable
 than parsing the report YAML that the agent might store on disk.
