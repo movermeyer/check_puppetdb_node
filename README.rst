@@ -5,10 +5,10 @@ check_puppetdb_node
 .. image:: https://travis-ci.org/daenney/check_puppetdb_node.svg?branch=master
     :target: https://travis-ci.org/daenney/check_puppetdb_node
 
-.. image:: https://pypip.in/d/check_puppetdb_node/badge.png
+.. image:: https://img.shields.io/pypi/dm/check_puppetdb_node.svg
    :target: https://pypi.python.org/pypi/check_puppetdb_node
 
-.. image:: https://pypip.in/v/check_puppetdb_node/badge.png
+.. image:: https://img.shields.io/pypi/v/check_puppetdb_node.svg
    :target: https://pypi.python.org/pypi/check_puppetdb_node
 
 check_puppetdb_node is a Nagios / Icinga plugin that allows you to check the
